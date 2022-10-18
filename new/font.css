@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'DIN-light';
+    src: local('DIN-light');
+    src: url('https://nomail.com.ua/files/eot/70d15931bc3b9f73e7c4ecd822b6fc18.eot?#iefix');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Open+Sans:wght@300;600&display=swap');
